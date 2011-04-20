@@ -664,7 +664,15 @@ span.switch a:hover {
 
 
 
-
+#atat{border:1px dotted red;}
+#atat #shell{border:1px dotted blue;}
+#leg-a{left:-10px;position:absolute;top:140px;}
+.leg-thigh{border:1px dotted red;}
+.leg-shin{border:1px dotted blue;}
+.leg-foot{border:1px dotted green;}
+#head{border:1px dotted red;}
+#skull{border:1px dotted blue;}
+#neck{border:1px dotted green;}
 
 
 
